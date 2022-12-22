@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a bar code scanner that returns common allergens in products<br>🌱 I’m currently learning Java and Spring Boot<br><br>🏆 [My Certifications:](https://www.credly.com/users/furqan-faruqui)
+🔭 I’m currently working on a bar code scanner that returns common allergens in products<br>🌱 I’m currently learning Java and Spring Boot<br><br>🏆 [My Certifications](https://www.credly.com/users/furqan-faruqui)
 
 
 ## 🌐 Socials:
