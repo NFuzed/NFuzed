@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m working on an exercise application to plan workouts and track workout trends <br> I’m currently working full time as a software developer, using Java and CSS<br><br>🏆 [My Certifications](https://www.credly.com/users/furqan-faruqui)
+I’m working on software to digitize legacy schematics <br> I’m currently working full time as a software developer, using Java and CSS<br><br>🏆 [My Certifications](https://www.credly.com/users/furqan-faruqui)
 
 
 ## 🌐 Socials:
